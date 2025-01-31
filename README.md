@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="URL_GAMBAR_BANNER" alt="Banner Muhammad Sadri" width="100%" />
+  <img src="./banner.png" alt="Banner Muhammad Sadri" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Muhammad Sadri! 👋</h1>
@@ -29,7 +29,7 @@
 
 ## 📫 Contact Me
 
-📧 Email: your.email@example.com  
+📧 Email: muhammadsadry19@gmail.com  
 💼 LinkedIn: [linkedin.com/in/muhammad-sadri](https://linkedin.com/in/muhammad-sadri)  
 🚀 GitHub: [github.com/muuri19](https://github.com/muuri19)
 
