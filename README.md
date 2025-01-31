@@ -24,7 +24,7 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-sadri&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muuri19&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions Graph" />
 </p>
 
 ## 📫 Contact Me
