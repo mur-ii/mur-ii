@@ -21,12 +21,6 @@
 - 🎨 **UI/UX**: Figma, Material Design
 - 🚀 **Project Management**: Agile, Scrum, Trello, Jira
 
-## 🐍 GitHub Commit Snake Animation
-
-<p align="center">
-  <img src="https://github.com/muuri19/muuri19/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
 ## 📫 Contact Me
 
 📧 Email: muhammadsadry19@gmail.com  
