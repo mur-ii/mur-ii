@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Banner Muhammad Sadri" width="100%" />
+  <img src="URL_GAMBAR_BANNER" alt="Banner Muhammad Sadri" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Muhammad Sadri! 👋</h1>
@@ -21,10 +21,10 @@
 - 🎨 **UI/UX**: Figma, Material Design
 - 🚀 **Project Management**: Agile, Scrum, Trello, Jira
 
-## 📊 GitHub Contributions
+## 🐍 GitHub Commit Snake Animation
 
 <p align="center">
-  <img src="https://github.com/muuri19/muuri19/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution" />
+  <img src="https://github.com/muuri19/muuri19/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ## 📫 Contact Me
