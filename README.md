@@ -21,6 +21,12 @@
 - 🎨 **UI/UX**: Figma, Material Design
 - 🚀 **Project Management**: Agile, Scrum, Trello, Jira
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muuri19/muuri19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muuri19/muuri19/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/muuri19/muuri19/output/github-snake.svg" />
+</picture>
+
 ## 📫 Contact Me
 
 📧 Email: muhammadsadry19@gmail.com  
