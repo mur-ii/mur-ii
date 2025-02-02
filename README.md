@@ -27,12 +27,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/muuri19/muuri19/output/github-snake.svg" />
 </picture>
 
-## 📫 Contact Me
-
-📧 Email: muhammadsadry19@gmail.com  
-💼 LinkedIn: [linkedin.com/in/muhammad-sadri](https://linkedin.com/in/muhammad-sadri)  
-🚀 GitHub: [github.com/muuri19](https://github.com/muuri19)
-
 ---
 
 ⭐️ _Feel free to connect with me and collaborate on exciting projects!_ 🚀
