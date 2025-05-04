@@ -13,7 +13,7 @@ I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 
 - 💬 Ask me about anything [here](#)
 
-<p>Framwork : 
+<p>Framework : 
 <code><img src="./assets/icons/flutter.svg" height=20></code>
 <code><img src="./assets/icons/react.svg" height=20></code>
 </p>
@@ -32,5 +32,18 @@ I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 </p>
 
 ---
+
+```txt
+Dart                       320 hrs 00 mins ███████████░░░░░░░░░░░░░░   30.00 %
+TypeScript                 220 hrs 00 mins █████████░░░░░░░░░░░░░░░░   20.63 %
+Java                       160 hrs 00 mins ███████░░░░░░░░░░░░░░░░░░   15.00 %
+JavaScript                 140 hrs 00 mins ██████░░░░░░░░░░░░░░░░░░░   13.13 %
+SQL                        100 hrs 00 mins █████░░░░░░░░░░░░░░░░░░░░   09.38 %
+WordPress                  60 hrs 00 mins  ███░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+```
+
+---
+
+<a href="https://app.daily.dev/muuri"><img src="https://api.daily.dev/devcards/v2/iOuUIk06KSmX276DivbwE.png?type=wide&r=a8w" width="350" alt="Muuri's Dev Card"/></a>
 
 ⭐️ _Feel free to connect with me and collaborate on exciting projects!_ 🚀
