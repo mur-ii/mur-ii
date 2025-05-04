@@ -32,7 +32,6 @@ I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 </p>
 
 ---
-
 ```txt
 Dart                       320 hrs 00 mins ███████████░░░░░░░░░░░░░░   30.00 %
 TypeScript                 220 hrs 00 mins █████████░░░░░░░░░░░░░░░░   20.63 %
@@ -41,7 +40,6 @@ JavaScript                 140 hrs 00 mins ██████░░░░░░�
 SQL                        100 hrs 00 mins █████░░░░░░░░░░░░░░░░░░░░   09.38 %
 WordPress                  60 hrs 00 mins  ███░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
-
 ---
 
 <a href="https://app.daily.dev/muuri"><img src="https://api.daily.dev/devcards/v2/iOuUIk06KSmX276DivbwE.png?type=wide&r=a8w" width="350" alt="Muuri's Dev Card"/></a>
