@@ -42,6 +42,5 @@ WordPress                  60 hrs 00 mins  ███░░░░░░░░░�
 ```
 ---
 
-<a href="https://app.daily.dev/muuri"><img src="https://api.daily.dev/devcards/v2/iOuUIk06KSmX276DivbwE.png?type=wide&r=a8w" width="350" alt="Muuri's Dev Card"/></a>
 
 ⭐️ _Feel free to connect with me and collaborate on exciting projects!_ 🚀
