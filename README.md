@@ -5,13 +5,13 @@
 
 I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 
-**About me**
+## 🚀 About Me
 
-- 💼 Multiplatfrom Developer at [Muuri](#)
+- � **Multiplatform Developer** - Highlighting your main expertise
 
-- 📈 Built **github-readme-stats**, **verlyjs** and more on GitHub
+- 🌟 **Open Source Enthusiast** - Showcasing your contribution to the community
 
-- 💬 Ask me about anything [here](#)
+- 💬 **Let's Connect!** Feel free to reach out for collaboration or just a tech chat [here](#)
 
 <p>Framework : 
 <code><img src="./assets/icons/flutter.svg" height=20></code>
@@ -32,6 +32,7 @@ I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 </p>
 
 ---
+
 ```txt
 Dart                       320 hrs 00 mins ███████████░░░░░░░░░░░░░░   30.00 %
 TypeScript                 220 hrs 00 mins █████████░░░░░░░░░░░░░░░░   20.63 %
@@ -40,7 +41,7 @@ JavaScript                 140 hrs 00 mins ██████░░░░░░�
 SQL                        100 hrs 00 mins █████░░░░░░░░░░░░░░░░░░░░   09.38 %
 WordPress                  60 hrs 00 mins  ███░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
----
 
+---
 
 ⭐️ _Feel free to connect with me and collaborate on exciting projects!_ 🚀
