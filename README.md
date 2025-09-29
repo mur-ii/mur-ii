@@ -7,11 +7,11 @@ I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 
 ## 🚀 About Me
 
-- 👨‍💻 **Multiplatform Developer** - Highlighting your main expertise
+- 👨‍💻 **Multiplatform Developer** - Crafting seamless experiences across mobile, web, and desktop platforms
 
-- 🌟 **Open Source Enthusiast** - Showcasing your contribution to the community
+- 🌟 **Open Source Enthusiast** - Building tools and libraries that empower developers worldwide
 
-- 💬 **Let's Connect!** Feel free to reach out for collaboration or just a tech chat [here](#)
+- 💬 **Let's Connect!** - Always excited to collaborate on innovative projects and share knowledge [here](#)
 
 <p>Framework : 
 <code><img src="./assets/icons/flutter.svg" height=20></code>
