@@ -7,7 +7,7 @@ I'm a self-taught passionate Multiplatfrom Developer from Indonesia
 
 ## 🚀 About Me
 
-- � **Multiplatform Developer** - Highlighting your main expertise
+- 👨‍💻 **Multiplatform Developer** - Highlighting your main expertise
 
 - 🌟 **Open Source Enthusiast** - Showcasing your contribution to the community
 
