@@ -20,10 +20,8 @@ State Mgt: BLoC, Riverpod, GetX                 ⚡ CREATOR
 Local DB: Hive, Isar, SQLite (Drift)            ⚡ INNOVATOR
 Tools: FVM, Android Studio, Xcode
 Backend: Firebase, Supabase, REST API
-                                      ╭─────────────────╮             
-                                      │  ┌─┐┌─┐┌┬┐┌─┐   │      
-                                      │  │  │ │ ││├┤    │      
-current_focus                         │  └─┘└─┘─┴┘└─┘   │             
+                                       
+current_focus                         ╭─────────────────╮
 --------------                        │                 │             
 → Mastering Advanced Animations       │  ◆ Clean Arch   
 → Platform Channels (Native Bridge)   │  ◆ Cross-Plat                
