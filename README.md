@@ -1,12 +1,12 @@
 ```js
 $ whoami
                                     
-profile                 ╔═╗╦═╗╔═╗╔═╗╦╦  ╔═╗        
---------------          ╠═╝╠╦╝║ ║╠╣ ║║  ║╣         
-Name: MUHAMMAD SADRI    ╩  ╩╚═╚═╝╚  ╩╩═╝╚═╝        
+profile                     ╔═╗╦═╗╔═╗╔═╗╦╦  ╔═╗        
+--------------              ╠═╝╠╦╝║ ║╠╣ ║║  ║╣         
+Name    : MUHAMMAD SADRI    ╩  ╩╚═╚═╝╚  ╩╩═╝╚═╝        
 Location: BANDUNG, ID
-Role: MOBILE DEVELOPER (FLUTTER)
-Status: Open to opportunities
+Role    : MOBILE DEVELOPER (FLUTTER)
+Status  : Open to opportunities
                           
 ╔════════════════════════════════════════╗
 ║   "Everything is a Widget 💙"          
@@ -17,9 +17,9 @@ tech_stack
 Languages: Dart 🎯, Kotlin, Sw  ift
 Framework: Flutter SDK, Material 3              ⚡ DEVELOPER                     
 State Mgt: BLoC, Riverpod, GetX                 ⚡ CREATOR                       
-Local DB: Hive, Isar, SQLite (Drift)            ⚡ INNOVATOR
-Tools: FVM, Android Studio, Xcode
-Backend: Firebase, Supabase, REST API
+Local DB : Hive, Isar, SQLite (Drift)           ⚡ INNOVATOR
+Tools    : FVM, Android Studio, Xcode
+Backend  : Firebase, Supabase, REST API
                                        
 current_focus                         ╭─────────────────╮
 --------------                        │                 │             
@@ -31,10 +31,10 @@ current_focus                         ╭─────────────
                                      
 github_stats    [████████████] 80%            
 --------------    Hot Reloading...                
-⭐ Stars Earned: [Auto-updates]
+⭐ Stars Earned : [Auto-updates]
 🔱 Contributions: Daily Commits
-📦 Projects: [2]
-🏆 Achievements: Published on Play Store
+📦 Projects     : [2]
+🏆 Achievements : Published on Play Store
               
 connect
 --------------
