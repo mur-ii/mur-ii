@@ -1,47 +1,47 @@
 ```js
 $ whoami
                                     
-         ╔═╗╦═╗╔═╗╔═╗╦╦  ╔═╗        profile
-         ╠═╝╠╦╝║ ║╠╣ ║║  ║╣         --------------
-         ╩  ╩╚═╚═╝╚  ╩╩═╝╚═╝        Name: MUHAMMAD SADRI
-                                    Location: BANDUNG, ID
-                                    Role: MOBILE DEVELOPER (FLUTTER)
-                                    Status: Open to opportunities
+profile                 ╔═╗╦═╗╔═╗╔═╗╦╦  ╔═╗        
+--------------          ╠═╝╠╦╝║ ║╠╣ ║║  ║╣         
+Name: MUHAMMAD SADRI    ╩  ╩╚═╚═╝╚  ╩╩═╝╚═╝        
+Location: BANDUNG, ID
+Role: MOBILE DEVELOPER (FLUTTER)
+Status: Open to opportunities
                           
 ╔════════════════════════════════════════╗
 ║   "Everything is a Widget 💙"          
 ╚════════════════════════════════════════╝
 
-                                    tech_stack
-                                    --------------
-                                    Languages: Dart 🎯, Kotlin, Swift
-    ⚡ DEVELOPER                     Framework: Flutter SDK, Material 3
-    ⚡ CREATOR                       State Mgt: BLoC, Riverpod, GetX
-    ⚡ INNOVATOR                     Local DB: Hive, Isar, SQLite (Drift)
-                                    Tools: FVM, Android Studio, Xcode
-    ╭─────────────────╮             Backend: Firebase, Supabase, REST API
-    │  ┌─┐┌─┐┌┬┐┌─┐   │      
-    │  │  │ │ ││├┤    │      
-    │  └─┘└─┘─┴┘└─┘   │             current_focus
-    │                 │             --------------
-    │  ◆ Clean Arch   │             → Mastering Advanced Animations
-    │  ◆ Cross-Plat   │             → Platform Channels (Native Bridge)
-    │  ◆ Pixel Perf   │             → Implementing CI/CD (Codemagic)
-    │                 │             → Performance Profiling (Impeller)
-    ╰─────────────────╯
+tech_stack
+--------------
+Languages: Dart 🎯, Kotlin, Sw  ift
+Framework: Flutter SDK, Material 3              ⚡ DEVELOPER                     
+State Mgt: BLoC, Riverpod, GetX                 ⚡ CREATOR                       
+Local DB: Hive, Isar, SQLite (Drift)            ⚡ INNOVATOR
+Tools: FVM, Android Studio, Xcode
+Backend: Firebase, Supabase, REST API
+                                      ╭─────────────────╮             
+                                      │  ┌─┐┌─┐┌┬┐┌─┐   │      
+                                      │  │  │ │ ││├┤    │      
+current_focus                         │  └─┘└─┘─┴┘└─┘   │             
+--------------                        │                 │             
+→ Mastering Advanced Animations       │  ◆ Clean Arch   │             
+→ Platform Channels (Native Bridge)   │  ◆ Cross-Plat   │             
+→ Implementing CI/CD (Codemagic)      │  ◆ Pixel Perf   │             
+→ Performance Profiling (Impeller)    │                 │             
+                                      ╰─────────────────╯
                                      
-    [████████████░░] 80%            github_stats
-    Hot Reloading...                --------------
-                                    ⭐ Stars Earned: [Auto-updates]
-                                    🔱 Contributions: Daily Commits
-                                    📦 Projects: [Your project count]
-                                    🏆 Achievements: Published on Play Store
+github_stats    [████████████░░] 80%            
+--------------    Hot Reloading...                
+⭐ Stars Earned: [Auto-updates]
+🔱 Contributions: Daily Commits
+📦 Projects: [Your project count]
+🏆 Achievements: Published on Play Store
               
-                                    connect
-                                    --------------
-                                    💼 Instagram: @murii.me
-
-    ⚙️ System.Status                 
+connect
+--------------
+💼 Instagram: @murii.me
+⚙️ System.Status                 
     └──> flutter run...
     └──> iOS & Android Ready! 📱     motto
     └──> Build Success! ✅           --------------
