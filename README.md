@@ -3,8 +3,6 @@ $ whoami
                 
 profile               
 --------------                   
-Name    : MUHAMMAD SADRI        
-Location: BANDUNG, ID
 Role    : MOBILE DEVELOPER (FLUTTER)
 Status  : Open to opportunities
                           
