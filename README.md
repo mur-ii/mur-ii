@@ -1,10 +1,17 @@
 ```js
-$ whoami --verbose
+$ whoami --profile
 
 [+] INITIALIZING PROFILE...
 ---------------------------------------------------
-> Roles   : IT PROJECT MANAGER | MOBILE DEVELOPER
+> Roles   : IT PROJECT MANAGER | FULLSTACK DEVELOPER
 > Status  : Open to opportunities 🟢
+> Focus   : Planning, shipping, and scaling digital products
+
+[+] PROFILE SUMMARY...
+---------------------------------------------------
+> Bio     : Agile-minded PM with a builder mindset, turning ideas into clean, usable products.
+> Stack   : React • Next.js • Node.js • Express • PostgreSQL • Tailwind
+> Style   : Fast execution, clear communication, simple systems
 
 [+] PINGING CONNECTIONS...
 ---------------------------------------------------
@@ -12,11 +19,17 @@ $ whoami --verbose
 📸 Instagram : @murii.me
 🐦 X         : @SuperMurii
 
+[+] BUILD STATUS...
+---------------------------------------------------
+⚙️ Planning   : Sprint-ready
+🧩 Delivery   : Product-focused
+🚀 Execution  : Fullstack mode enabled
+
 [+] RUNNING DIAGNOSTICS...
 ---------------------------------------------------
 ⚙️ System.Tasks
-   ├──> Executing: Sprint_Planning.sh... [OK]
-   ├──> Managing: Team_Resources.exe...  [OK]
-   ├──> Compiling: Mobile_App_Build...   [OK]
+   ├──> Executing: Product_Roadmap.sh...   [OK]
+   ├──> Managing: Team_Alignment.exe...    [OK]
+   ├──> Compiling: Fullstack_App_Build...  [OK]
    └──> Result: PROJECT DELIVERED SUCCESSFULLY! ✅
 ```
