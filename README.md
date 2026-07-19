@@ -1,1 +1,23 @@
-Muhammad Sadri adalah seorang IT Project Manager dan Fullstack Developer yang berfokus pada perencanaan, pengembangan, dan penskalaan produk digital secara efisien. Dengan pendekatan yang berorientasi pada hasil dan agile, ia menggabungkan keahlian manajemen proyek dengan kemampuan teknis menggunakan teknologi modern seperti React, Next.js, Node.js, Express, PostgreSQL, dan Tailwind untuk menghasilkan solusi sistem yang bersih, cepat, dan berdampak nyata.
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Muhammad Sadri Banner" />
+</p>
+
+<hr />
+
+<p align="center">
+  <samp><strong>こんにちは, I'm Muhammad Sadri 👋</strong></samp>
+</p>
+
+<p align="center">
+  <i>"Combining clean code with efficient leadership to build digital products that scale."</i>
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>🛠️ <b>Technologies & Frameworks</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,firebase,gcp,react,nextjs,nodejs,express,postgres,tailwind" alt="Tech Stack" />
+</p>
