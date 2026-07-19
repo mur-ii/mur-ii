@@ -1,6 +1,1 @@
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="600">
-</p>
-
+Muhammad Sadri adalah seorang IT Project Manager dan Fullstack Developer yang berfokus pada perencanaan, pengembangan, dan penskalaan produk digital secara efisien. Dengan pendekatan yang berorientasi pada hasil dan agile, ia menggabungkan keahlian manajemen proyek dengan kemampuan teknis menggunakan teknologi modern seperti React, Next.js, Node.js, Express, PostgreSQL, dan Tailwind untuk menghasilkan solusi sistem yang bersih, cepat, dan berdampak nyata.
