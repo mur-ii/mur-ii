@@ -33,3 +33,9 @@ $ whoami --profile
    ├──> Compiling: Fullstack_App_Build...  [OK]
    └──> Result: PROJECT DELIVERED SUCCESSFULLY! ✅
 ```
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>

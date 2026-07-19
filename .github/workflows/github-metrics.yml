@@ -1,0 +1,44 @@
+name: Metrics
+on:
+  # Schedule updates (every 12 hours)
+  schedule: [{cron: "0 */12 * * *"}]
+  # (Optional) Run workflow manually
+  workflow_dispatch:
+  # (Optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: General Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: muuri19
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          
+          # Isometric Commit Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Most Used Languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # Mastered technologies (Topics)
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          
+          # Projects (if you have GitHub projects/kanban boards)
+          plugin_projects: yes
+          plugin_projects_limit: 4
