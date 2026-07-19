@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" height="250" alt="Muhammad Sadri Banner" />
+  <img src="banner.jpg" width="100%"  alt="Muhammad Sadri Banner" />
 </p>
 
 <hr />
