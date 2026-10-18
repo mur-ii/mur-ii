@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>"Combining clean code with efficient leadership to build digital products that scale."</i>
+  <i>"Serving fresh ideas and a good cup of coffee."</i>
 </p>
 
 <hr />
