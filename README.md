@@ -1,9 +1,6 @@
-<br/>
-<br/>
-
-<p align="center">
+<h3 align="center">
   <samp><strong>こんにちは, I'm Muhammad Sadri 👋</strong></samp>
-</p>
+</h3>
 
 <p align="center">
   <i>"Serving fresh ideas and a good cup of coffee."</i>
@@ -16,5 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,firebase,gcp,react,nextjs,nodejs,express,postgres,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind,laravel,dart,flutter,kotlin,java" alt="Frontend & Mobile" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,elysia,go,postgres,mysql,firebase,gcp" alt="Backend & Database" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,androidstudio,gradle,github,gitlab,figma,discord,bots" alt="Tools & DevOps" />
 </p>
+
+<hr />
+
