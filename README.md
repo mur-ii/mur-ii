@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="banner.png" width="100%"  alt="Muhammad Sadri Banner" />
-</p>
-
-<hr />
+<br/>
+<br/>
 
 <p align="center">
   <samp><strong>こんにちは, I'm Muhammad Sadri 👋</strong></samp>
