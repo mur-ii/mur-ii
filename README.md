@@ -1,5 +1,5 @@
 <h3 align="center">
-  <samp><strong>こんにちは, I'm Muhammad Sadri 👋</strong></samp>
+  <samp><strong>こんにちは, I'm Sadri 👋</strong></samp>
 </h3>
 
 <p align="center">
@@ -19,6 +19,4 @@
   <br />
   <img src="https://skillicons.dev/icons?i=cloudflare,docker,androidstudio,gradle,github,gitlab,figma,discord,bots" alt="Tools & DevOps" />
 </p>
-
-<hr />
 
